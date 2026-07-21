@@ -1,0 +1,11 @@
+our new textbook provides access to support packages that may include reviews in areas 
+like probability and vectors, tutorials on topics relevant to the material in the book, an image 
+database, and more. Refer to the Preface in the textbook for a detailed list of resources.
+Follow the instructions below to register for the Companion Website for Rafael C. Gonzalez and 
+Richard E. Woods’ Digital Image Processing, Fourth Edition, Global Edition.
+1.  Go to www.ImageProcessingPlace.com
+2.  Find the title of your textbook.
+3.   Click Support Materials and follow the on-screen instructions to create a login name and 
+password.
+Use the login name and password you created during registration to start using the 
+digital resources that accompany your textbook

@@ -1,0 +1,7 @@
+langchain
+langchain-mistralai
+langchain-community
+python-dotenv
+pypdf
+faiss-cpu
+sentence-transformers
